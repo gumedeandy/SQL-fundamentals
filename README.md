@@ -43,6 +43,6 @@ A collection of SQL concepts, practical exercises, and real world examples compl
 
 ## 👨‍💻 Author
 
-**Mayor Mpofu**
+ANDILE GUMEDE
 
 Building practical SQL skills for Data Engineering through hands on projects and real world examples.
